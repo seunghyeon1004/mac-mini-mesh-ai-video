@@ -8,6 +8,10 @@ Four Mac mini M4 Pro (24 GB) machines wired into a full Thunderbolt 5 mesh run t
 - 만든 영상(AI 생성, MiniMax H3): [등대 30초, 카메라 지시 없이](https://youtu.be/QUMDyc7Fv4M) · [새벽 항구 30초, 촬영 지시서로](https://youtu.be/UWLWwA30DeU)
 - 과정을 글로 정리한 시리즈: [seunghyeon's lab 블로그](https://blog.naver.com/seunghyeonlab)
 
+[![같은 3초 영상을 맥 미니 1대, 2대, 3대로 만들 때 걸린 시간](media/compare.jpg)](https://youtube.com/shorts/9YtuoVPRdM0)
+
+같은 3초 영상을 1대(338.2초), 설정이 어긋난 2대(340.3초), 2대(209.0초), 3대(164.8초)로 만든 비교입니다. 그림을 누르면 15초 영상이 열립니다([파일](media/compare-1-2-3-macs.mp4)).
+
 ## 장비와 소프트웨어
 
 - 맥 미니 M4 Pro 24GB × 4 (Mac1~Mac4), macOS 26.4
@@ -24,6 +28,7 @@ Four Mac mini M4 Pro (24 GB) machines wired into a full Thunderbolt 5 mesh run t
 | 구성 | 시간 | 비고 |
 |---|---|---|
 | 1대 | 338.2초 | 스왑 6.4 → 10.2GB |
+| 2대, 첫 시도 | 340.3초 | 한 맥에 패치 파일이 없어 리더가 혼자 실행. 에러 없음 |
 | 2대 | 209.0초 | |
 | 3대 | 164.8초 | |
 
